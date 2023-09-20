@@ -20,3 +20,8 @@ h3{
     background-attachment: fixed; /* Fixes the image in place */
     background-position: center; /* Centers the image horizontally and vertically */
 }
+
+.box {
+    width: 100%;
+    overflow-x:scroll;
+}
